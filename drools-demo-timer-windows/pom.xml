@@ -69,7 +69,7 @@
         <dependency>
             <groupId>org.drools</groupId>
             <artifactId>drools-compiler</artifactId>
-            <version>7.0.0.Final</version>
+            <version>8.29.0.Final</version>
         </dependency>
 
     </dependencies>
